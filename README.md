@@ -2,7 +2,7 @@
 Aurélien Khefif-Derain apprenti miage ID à l'Université Paris Dauphine
 
 
-Ce depot git a pour but de vous mettre à disposition les codes que j'ai crées pour faire mon Proof Of Concept.
+Ce dépot git a pour but de vous mettre à disposition les codes que j'ai crée pour faire mon Proof Of Concept.
 Il contient :
 * Le script producteur de données.
 * Le script Lambda, qui agrège les données.
